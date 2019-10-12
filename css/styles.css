@@ -1,0 +1,23 @@
+#points {
+	color: green;
+}
+
+button {
+	outline: none;
+}
+
+button.left{
+	float:left;
+	clear:both;
+}
+
+button.right{
+	float: left;
+}
+
+p.stat{
+	float:left;
+	margin:auto;
+	text-align:center;
+	width:200px;
+}
