@@ -1,5 +1,9 @@
-#Point buy calculator for D&D 5e
+# Point buy calculator for D&D 5e
 
-##by: Nathan Green
+## by: Nathan Green
 
-Created for the purpose of practicing HTML/CSS/Javascript
+Created for the purpose of practicing:
+* HTML
+* CSS
+* Javascript
+* Markdown
