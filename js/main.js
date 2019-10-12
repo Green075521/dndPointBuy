@@ -5,7 +5,7 @@ var gameData = {
 }
 
 function updateText() {
-	document.getElementById("points").innerHTML = "Points: " + gameData.points
+	document.getElementById("points").innerHTML = "Points: " + gameData.points + "/27"
 	document.getElementById("Strength").innerHTML = "Strength: " + strength.value
 	document.getElementById("Dexterity").innerHTML = "Dexterity: " + dexterity.value
 	document.getElementById("Constitution").innerHTML = "Constitution: " + constitution.value
